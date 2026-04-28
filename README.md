@@ -27,7 +27,6 @@ Later, this repository may also include:
 岁岁成长记/
   README.md
   README_CN.md
-  README_EN.md
   docs/
     00-学习地图.md
     01-胎教早教概念卡.md
